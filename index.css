@@ -30,11 +30,10 @@ header ul li {
 
 .s1 {
     border: solid 1px black;
-    padding: 90px;
+    padding: 210px;
     color: white;
     background-image: url("BannBXRPSDIS33.png");
     background-position: center;
-    max-width: 100%;
     Background-size: cover;
 }
 
